@@ -1,7 +1,5 @@
 # Satellite Tracker API
-Aviation Edge Satellite Tracker API provides provides detailed, real-time position and relevant data of satellites and objects orbiting around the Earth. The API covers real-time position information as well as many other details about the satellite itself such as name, NORAD ID, launch year, size, country of origin, and more. The position data updates constantly which allows building virtual maps for websites or apps as well as tracking and analyzing the movement of these objects.
-
-[Get your API key](https://aviation-edge.com/premium-api/) in a minute and start testing the data right away. The API is provided through API subscriptions. All plans grant access to the Future Schedules API and other APIs with a difference of the monthly API call limit. Choose the best plan for you and upgrade, downgrade or cancel your plan anytime without  commitments.
+Aviation Edge [Satellite Tracker API](https://aviation-edge.com/satellite-tracking-api/) provides provides detailed, real-time position and relevant data of satellites and objects orbiting around the Earth. The API covers real-time position information as well as many other details about the satellite itself such as name, NORAD ID, launch year, size, country of origin, and more. The position data updates constantly which allows building virtual maps for websites or apps as well as tracking and analyzing the movement of these objects.
 
 ### Documentation
 You may find input parameters, output examples with explanations for each item, filter list, and more in the [documentation](https://aviation-edge.com/developers/).
@@ -80,8 +78,10 @@ Filtering based on orbital apogee and perigee:
 ]
 ```
 
-### Questions & Support
+### Access & Support
 [Contact us](https://aviation-edge.com/contact/) via email for any questions or support requests.
+
+[Get your API key](https://aviation-edge.com/premium-api/) in a minute and start testing the data right away. The API is provided through API subscriptions. All plans grant access to the Future Schedules API and other APIs with a difference of the monthly API call limit. Choose the best plan for you and upgrade, downgrade or cancel your plan anytime without  commitments.
 
 ### License
 The use of the API is subject to Aviation Edge [Terms and Conditions](https://aviation-edge.com/api-terms-of-service/).
