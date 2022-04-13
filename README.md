@@ -12,25 +12,25 @@ You may find input parameters, output examples with explanations for each item, 
 ### Request 
 All on-orbit satellite information in one call:
 
-**GET** http://aviation-edge.com/v2/public/satelliteDetails?key=[API_KEY]&limit=30000
+**GET** `http://aviation-edge.com/v2/public/satelliteDetails?key=[API_KEY]&limit=30000`
 
 Individual satellites based on NORAD number:
 
-**GET** http://aviation-edge.com/v2/public/satelliteDetails?key=[API_KEY]&code=408
+**GET** `http://aviation-edge.com/v2/public/satelliteDetails?key=[API_KEY]&code=408`
 
 Satellites based on launch year:
 
-**GET** http://aviation-edge.com/v2/public/satelliteDetails?key=[API_KEY]&launchYear=1961
+**GET** `http://aviation-edge.com/v2/public/satelliteDetails?key=[API_KEY]&launchYear=1961`
 
 Individual satellites based on international designator (NSSDC ID) number:
 
-**GET** http://aviation-edge.com/v2/public/satelliteDetails?key=[API_KEY]&intldes=1961-015EH
+**GET** `http://aviation-edge.com/v2/public/satelliteDetails?key=[API_KEY]&intldes=1961-015EH`
 
 Filtering based on orbital apogee and perigee:
 
-**GET** http://aviation-edge.com/v2/public/satelliteDetails?key=[API_KEY]&orbitalapogee=1035
+**GET** `http://aviation-edge.com/v2/public/satelliteDetails?key=[API_KEY]&orbitalapogee=1035`
 
-**GET** http://aviation-edge.com/v2/public/satelliteDetails?key=[API_KEY]&orbitalperigee=939
+**GET** `http://aviation-edge.com/v2/public/satelliteDetails?key=[API_KEY]&orbitalperigee=939`
 
 ### Response
 ```
