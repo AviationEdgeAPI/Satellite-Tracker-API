@@ -1,5 +1,5 @@
 # Satellite Tracker API
-Aviation Edge [Satellite Tracker API](https://aviation-edge.com/satellite-tracking-api/) provides provides detailed, real-time position and relevant data of satellites and objects orbiting around the Earth. The API covers real-time position information as well as many other details about the satellite itself such as name, NORAD ID, launch year, size, country of origin, and more. The position data updates constantly which allows building virtual maps for websites or apps as well as tracking and analyzing the movement of these objects.
+Aviation Edge [Satellite Tracker API](https://aviation-edge.com/satellite-tracking-api/) provides detailed, real-time position and relevant data of satellites and objects orbiting around the Earth. The API covers real-time position information as well as many other details about the satellite itself such as name, NORAD ID, launch year, size, country of origin, and more. The position data updates constantly which allows building virtual maps for websites or apps as well as tracking and analyzing the movement of these objects.
 
 ### Documentation
 You may find input parameters, output examples with explanations for each item, filter list, and more in the [documentation](https://aviation-edge.com/developers/).
